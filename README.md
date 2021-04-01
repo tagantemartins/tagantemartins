@@ -1,5 +1,6 @@
-(under construction)
-<img src="https://github.com/tagantemartins/tagantemartins/blob/main/media/img.gif" width="200" height="125" />
+### loading...
+
+<img src="https://github.com/tagantemartins/tagantemartins/blob/main/media/img.webp" width="90" height="35" />
 
 <!--
 **tagantemartins/tagantemartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
