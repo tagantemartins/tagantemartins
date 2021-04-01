@@ -1,5 +1,5 @@
 (under construction)
-![Loading](https://github.com/tagantemartins/tagantemartins/blob/main/media/img.gif = 100x100)
+<img src="https://github.com/tagantemartins/tagantemartins/blob/main/media/img.gif" width="200" height="125" />
 
 <!--
 **tagantemartins/tagantemartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
