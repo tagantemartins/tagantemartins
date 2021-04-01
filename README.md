@@ -1,4 +1,5 @@
 (under construction)
+![Alt Text](https://github.com/tagantemartins/tagantemartins/blob/main/media/img.gif)
 
 <!--
 **tagantemartins/tagantemartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
